@@ -1,0 +1,34 @@
+.card-img {
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+  }
+  
+  .card-img:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); 
+  }
+  
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: black; 
+  }
+  
+  .swiper-button-next:hover,
+  .swiper-button-prev:hover {
+    color: darkgray; 
+  }
+  
+  .card-button {
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+  }
+  
+  .card-button:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); 
+    color:rgb(145, 18, 18)
+  }
+  
+  
+  
+
+
+
